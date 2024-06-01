@@ -1,0 +1,24 @@
+/* InformationCards.css */
+.information-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 40px;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+  }
+  
+  .card h3 {
+    margin-top: 0;
+  }
+  
+  .card ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+  
